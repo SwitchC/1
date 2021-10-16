@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LSUU/qP9HhRPQV50yNsV8tkNFx+IzQSkq94oQ28Bg/TCA/m4HUo4uqqHhA+fHiTed+E2eAvewkGmYRLE3RZNFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Веталь\\Desktop\\С#\\дз\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Веталь\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Веталь\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Веталь\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
